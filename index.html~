@@ -40,6 +40,9 @@
 				<!-- Logo -->
 				<div id="logo">
 					<h1><a href="index.html#gt"><img class="icon" src="./images/logo_header.png"></a></h1>
+					<hi id="uno"> </hi>
+					<hi id="dos"> </hi>
+					<hi id="tres"> </hi>
 				</div>
 			</div>
 		</div>

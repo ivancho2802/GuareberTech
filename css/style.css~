@@ -825,6 +825,8 @@
 			#logo h1:hover
 			{
 				opacity:1;
+				border-bottom: 4px solid rgba(70,300,80,.5);/*Verde transparente*/
+				
 			}
 
 /*********************************************************************************/
